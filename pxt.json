@@ -1,5 +1,5 @@
 {
-    "name": "Jammer",
+    "name": "RC_Jammer",
     "description": "",
     "dependencies": {
         "core": "*",
